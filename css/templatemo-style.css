@@ -529,8 +529,7 @@ h3.profile-title {
 }
 .project-thumbnail{
   display: block;
-  margin-top: 10px;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
   margin-left: auto;
   margin-right: auto;
   overflow: hidden;
